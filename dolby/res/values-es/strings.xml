@@ -167,4 +167,10 @@
     <string name="batch_export_description">¿Exportar los %1$s preajustes personalizados a un solo archivo?</string>
     <string name="export_all">Exportar todo</string>
 
+    <!-- Dolby mid enhancer -->
+    <string name="dolby_mid_enhancer">Realce de medios</string>
+    <string name="dolby_mid_level">Nivel de medios</string>
+    <string name="dolby_mid_enhancer_summary">Mejora los sonidos de frecuencia media para lograr voces e instrumentos más claros</string>
+
 </resources>
+
